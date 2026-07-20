@@ -1,7 +1,5 @@
 # ¡Bienvenido a mi perfil! 👋
 
-<img src="https://cdn.pixabay.com/photo/2018/01/15/07/51/viking-3086300_1280.jpg" alt="Avatar estilo nórdico" align="right" width="180" />
-
 ## Sobre mí
 
 👨‍💻 Soy **Ingeniero Informático** especializado en el análisis y desarrollo de software para empresas agrícolas. Mi objetivo es crear soluciones robustas y eficientes que optimicen los procesos del sector agroindustrial.
