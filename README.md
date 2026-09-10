@@ -114,16 +114,15 @@ Esta evolución me permite abordar sistemas nuevos sin perder de vista una reali
 
 ---
 
-## Portfolio
+## Portfolio técnico
 
-Estoy reorganizando este GitHub para publicar proyectos y casos técnicos enfocados en:
+Los repositorios públicos están orientados a decisiones y problemas reales de arquitectura, seguridad, integración y rendimiento:
 
-* arquitectura empresarial con .NET;
-* seguridad de APIs;
-* patrones SaaS multi-tenant;
-* integración y automatización;
-* performance y load testing;
-* modernización de aplicaciones.
+- [`api-load-testing`](https://github.com/IstokCarvallo/api-load-testing) — framework reutilizable de pruebas de carga para APIs REST autenticadas con Python y Locust.
+- [`dotnet-enterprise-architecture`](https://github.com/IstokCarvallo/dotnet-enterprise-architecture) — referencia de arquitectura empresarial con .NET, enfocada en separación de responsabilidades, mantenibilidad y evolución.
+- [`dotnet-biometric-integration`](https://github.com/IstokCarvallo/dotnet-biometric-integration) — integración biométrica en .NET desde captura y enrolamiento hasta identificación aplicada a procesos empresariales.
+- [`secure-dotnet-api`](https://github.com/IstokCarvallo/secure-dotnet-api) — referencia de seguridad para APIs .NET con autenticación, autorización y controles de protección de endpoints.
+- [`saas-multitenant-reference`](https://github.com/IstokCarvallo/saas-multitenant-reference) — arquitectura SaaS multi-tenant con .NET y PostgreSQL, con foco en aislamiento de datos y seguridad.
 
 El código correspondiente a productos comerciales y desarrollos empresariales se mantiene en repositorios privados.
 
@@ -131,8 +130,8 @@ El código correspondiente a productos comerciales y desarrollos empresariales s
 
 ## Contacto
 
-**Istok Carvallo**
-Ingeniero Informático
+**Istok Carvallo**  
+Ingeniero Informático  
 Chile
 
 📧 [istok.carvallo@gmail.com](mailto:istok.carvallo@gmail.com)
